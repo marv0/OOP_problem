@@ -1,3 +1,4 @@
+## reviewed code and explained how it wokrs
 def calculate_score(participants):
     scores = []
     for participant in participants:
